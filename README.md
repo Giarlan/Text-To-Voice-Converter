@@ -4,8 +4,8 @@
 > #### Status: Accomplished ✅
 
 > ### Briefing
->     This project shows us an App capable of converting text into voice by using HTML, CSS and JavaScript.
->     It's objective is to use one more new feature added recently to JavaScript.
+>     This project shows us an App capable of converting text into voice by using HTML, CSS, and JavaScript.
+>     Its objective is to use one more new feature added recently to JavaScript.
 
 > ### Features
 > - [X] Type text area
