@@ -12,15 +12,15 @@
 > - [X] Play button
 
 > ### Home Page
->   
+> ![Capturar](https://user-images.githubusercontent.com/108962578/236968010-dc06a06e-320d-4288-a873-cbdefc0162b6.JPG)  
 
 > ### Prerequisites to run it
 >     You only need a browser to click on the following link and run the application.
 
 > ### Deploy
 > * Test by using the link below
-> https://sparkly-douhua-97c889.netlify.app/
 >   
+>   https://sparkly-douhua-97c889.netlify.app/
 
 
 > ### Technologies Used
