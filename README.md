@@ -20,7 +20,7 @@
 > ### Deploy
 > * Test by using the link below
 >   
->   https://sparkly-douhua-97c889.netlify.app/
+>   https://harmonious-seahorse-e5a079.netlify.app
 
 
 > ### Technologies Used
